@@ -8,4 +8,6 @@ Sangre por sangre
 requiem por un sueño 
 historia americana X
 ----------------- esto se agrego a las 1:59 desde la rama conflicto
-
+hercules
+guerra mundial z
+----------------- esto se agrego a las 2:11 desde la rama main
